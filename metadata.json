@@ -1,0 +1,6 @@
+{
+  "name": "EventPay",
+  "description": "Aplikasi Payment Gateway Event untuk reservasi tiket, checkout multi-channel QRIS, Virtual Account, E-Wallet, e-ticket pass, dan verifikasi check-in.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Ticket Card Body -->
+    <path
+        android:pathData="M30,34 C30,30.7 32.7,28 36,28 L72,28 C75.3,28 78,30.7 78,34 L78,48 C74.7,48 72,50.7 72,54 C72,57.3 74.7,60 78,60 L78,74 C78,77.3 75.3,80 72,80 L36,80 C32.7,80 30,77.3 30,74 L30,60 C33.3,60 36,57.3 36,54 C36,50.7 33.3,48 30,48 Z"
+        android:fillColor="#4F46E5" />
+    
+    <!-- Accent Ticket Stripe / Glow -->
+    <path
+        android:pathData="M34,32 L74,32 C75.1,32 76,32.9 76,34 L76,46 C72,46.5 69,50 69,54 C69,58 72,61.5 76,62 L76,74 C76,75.1 75.1,76 74,76 L34,76 C32.9,76 32,75.1 32,74 L32,62 C36,61.5 39,58 39,54 C39,50 36,46.5 32,46 L32,34 C32,32.9 32.9,32 34,32 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#818CF8" />
+
+    <!-- QR / Chip Box -->
+    <path
+        android:pathData="M40,38 L50,38 L50,48 L40,48 Z"
+        android:fillColor="#06B6D4" />
+    <path
+        android:pathData="M43,41 L47,41 L47,45 L43,45 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Separator line -->
+    <path
+        android:pathData="M38,54 L70,54"
+        android:strokeWidth="1.5"
+        android:strokeColor="#A5B4FC" />
+
+    <!-- Payment Credit / Badge symbols -->
+    <!-- Card Chip / Contactless Wave -->
+    <path
+        android:pathData="M56,38 C60,38 64,41 64,45"
+        android:strokeWidth="1.5"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M59,38 C62,38 66,42 66,45"
+        android:strokeWidth="1.5"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round" />
+
+    <!-- Event Star / Sparkle in bottom portion -->
+    <path
+        android:pathData="M54,61 L55.5,65.5 L60,67 L55.5,68.5 L54,73 L52.5,68.5 L48,67 L52.5,65.5 Z"
+        android:fillColor="#FBBF24" />
+
+    <!-- Rupiah / Checkmark Accent -->
+    <path
+        android:pathData="M64,63 L68,67 L74,61"
+        android:strokeWidth="2"
+        android:strokeColor="#10B981"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+</vector>
